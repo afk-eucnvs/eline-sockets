@@ -1,0 +1,19 @@
+{
+  "name": "eline-sockets",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "module": "dist/eline-sockets.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "firebase": "^6.4.0",
+    "webpack": "^4.39.2"
+  }
+}

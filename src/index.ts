@@ -1,6 +1,8 @@
 import Firebase from 'firebase/app';
 import 'firebase/database'
 
+// Erik skriver noget
+
 const db = Firebase.initializeApp({
     apiKey: "AIzaSyDrgJLMlk-zHYwPgqhQfYRctaJkUMN69CI",
     databaseURL: "https://eline-sockets.firebaseio.com",
